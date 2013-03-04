@@ -1,6 +1,6 @@
-.vimrc
+configs
 =====
 
-Because I always lose it, here is My .vimrc. 
+Because I always lose them, here are some of my configs.
 
-Pinch it if you wish.
+Pinch them if you wish.
