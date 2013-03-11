@@ -1,4 +1,4 @@
-Configs
+Configs - OSX
 =======
 
 Because I always lose them, here are some of my configs.
