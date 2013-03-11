@@ -8,4 +8,4 @@ export PS1='\[$(tput setaf 1)\][\u@\h]\[$(tput setaf 6)\][\w]\[$(tput setaf 2)\]
 # Aliases
 alias status='svn status -u'
 alias ls='ls --color'
-alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+alias tree="find . -print | grep -v git | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
